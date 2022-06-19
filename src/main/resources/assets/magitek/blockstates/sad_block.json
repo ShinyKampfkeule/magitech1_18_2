@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "magitek:block/sad_block",
+      "y" : 90
+    },
+    "facing=north": {
+      "model": "magitek:block/sad_block"
+    },
+    "facing=south": {
+      "model": "magitek:block/sad_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "magitek:block/sad_block",
+      "y": 270
+    }
+  }
+}
