@@ -2,7 +2,7 @@
   "parent": "minecraft:block/orientable",
   "textures": {
     "top": "minecraft:block/sand",
-    "front": "magitek:blocks/sad_block",
+    "front": "magitek:blocks/maschine_front",
     "side": "minecraft:block/tnt_side"
   }
 }
